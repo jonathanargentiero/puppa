@@ -17,7 +17,7 @@ class manager:
 		# filename
 		self.__filename__ = arguments[0]
 		# version : python puppa --version
-		self.__version__ = '0.1'
+		self.__version__ = '0.2'
 		# doc : python puppa
 		self.__doc__ = (Fore.MAGENTA + 'PUPPA!' + Style.RESET_ALL)+'\n'
 		self.__doc__ += (Fore.BLUE + 'your updatable application package' + Style.RESET_ALL)+'\n'
